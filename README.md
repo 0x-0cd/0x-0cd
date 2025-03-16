@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- markdownlint-disable first-line-h1 -->
+<!-- markdownlint-disable html -->
+## MeditationLand
+<p align="center">
+  <img src="https://github.com/MeditationLand.png" width="20%" alt="GitHubAvatar">
+</p>
+<p align="center">
+  <a href="mailto:qianneng99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue"></a>&nbsp;&nbsp;
+  <a href="https://x.com/qianneng175867"><img alt="Static Badge" src="https://img.shields.io/badge/X-black"></a>&nbsp;&nbsp;
+  <a href="https://t.me/qianneng_99"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-lightblue"></a>&nbsp;&nbsp;
+  <a href="https://meditationland.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Website-grey"></a>
+</p>
 
-<!--
-**MeditationLand/MeditationLand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Commit_statistics](https://github-readme-activity-graph.vercel.app/graph?username=MeditationLand&custom_title=Commit%20statistics&hide_border=true&bg_color=008c8c&title_color=ffffff&color=ffffff&line=2F4F4F&point=e85827&radius=16)

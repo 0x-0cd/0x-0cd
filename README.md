@@ -2,7 +2,7 @@
 <!-- markdownlint-disable html -->
 ## MeditationLand
 <p align="center">
-  <img src="https://github.com/MeditationLand.png" width="20%" alt="GitHubAvatar">
+  <img src="https://github.com/0x-0cd.png" width="20%" alt="GitHubAvatar">
 </p>
 <p align="center">
   <a href="mailto:qianneng99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue"></a>&nbsp;&nbsp;

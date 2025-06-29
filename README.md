@@ -1,6 +1,6 @@
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
-## MeditationLand
+## 0x0cd Homepage
 <p align="center">
   <img src="https://github.com/0x-0cd.png" width="20%" alt="GitHubAvatar">
 </p>

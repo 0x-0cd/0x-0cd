@@ -11,4 +11,4 @@
   <a href="https://meditationland.github.io/"><img alt="Static Badge" src="https://img.shields.io/badge/Website-grey"></a>
 </p>
 
-![Commit_statistics](https://github-readme-activity-graph.vercel.app/graph?username=MeditationLand&custom_title=Commit%20statistics&hide_border=true&bg_color=008c8c&title_color=ffffff&color=ffffff&line=2F4F4F&point=e85827&radius=16)
+![Commit_statistics](https://github-readme-activity-graph.vercel.app/graph?username=0x-0cd&custom_title=Commit%20statistics&hide_border=true&bg_color=008c8c&title_color=ffffff&color=ffffff&line=2F4F4F&point=e85827&radius=16)

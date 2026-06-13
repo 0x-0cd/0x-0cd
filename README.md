@@ -75,28 +75,28 @@ stack: Python · FastAPI · Docker · Shell · Rust · Move
 ## 📌 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/0x-0cd/hermes-soul">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=hermes-soul&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=hermes-soul&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c" alt="hermes-soul">
-    </picture>
-  </a>
   <a href="https://github.com/0x-0cd/emma-skills">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=emma-skills&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=emma-skills&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c" alt="emma-skills">
     </picture>
   </a>
-  <a href="https://github.com/0x-0cd/XunDaoMUD">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=XunDaoMUD&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=XunDaoMUD&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c" alt="XunDaoMUD">
-    </picture>
-  </a>
   <a href="https://github.com/0x-0cd/0x-0cd.github.io">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=0x-0cd.github.io&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=0x-0cd.github.io&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c" alt="0x-0cd.github.io">
+    </picture>
+  </a>
+  <a href="https://github.com/0x-0cd/python-algorithms">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=python-algorithms&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=python-algorithms&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c" alt="python-algorithms">
+    </picture>
+  </a>
+  <a href="https://github.com/0x-0cd/cheat_bomb_airplane">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=cheat_bomb_airplane&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=0x-0cd&repo=cheat_bomb_airplane&hide_border=true&bg_color=0d1117&title_color=008c8c&text_color=ffffff&icon_color=008c8c" alt="cheat_bomb_airplane">
     </picture>
   </a>
 </div>

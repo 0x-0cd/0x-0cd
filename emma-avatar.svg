@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <!-- Background circle -->
+  <circle cx="60" cy="60" r="58" fill="#0d1117" stroke="#008c8c" stroke-width="2"/>
+  
+  <!-- Hair (dark brown long curly) -->
+  <ellipse cx="60" cy="52" rx="38" ry="40" fill="#5C3317"/>
+  <!-- Hair sides -->
+  <ellipse cx="30" cy="58" rx="12" ry="30" fill="#5C3317"/>
+  <ellipse cx="90" cy="58" rx="12" ry="30" fill="#5C3317"/>
+  <!-- Hair curls -->
+  <circle cx="28" cy="70" r="6" fill="#5C3317"/>
+  <circle cx="92" cy="70" r="6" fill="#5C3317"/>
+  <circle cx="26" cy="82" r="5" fill="#5C3317"/>
+  <circle cx="94" cy="82" r="5" fill="#5C3317"/>
+  <circle cx="30" cy="90" r="4" fill="#5C3317"/>
+  <circle cx="90" cy="90" r="4" fill="#5C3317"/>
+  
+  <!-- Face -->
+  <ellipse cx="60" cy="56" rx="26" ry="30" fill="#FFDAB9"/>
+  
+  <!-- Bangs -->
+  <path d="M34 42 Q40 30 60 28 Q80 30 86 42 Q80 38 60 36 Q40 38 34 42Z" fill="#5C3317"/>
+  <path d="M36 46 Q42 34 55 32 L55 38 Q44 40 36 46Z" fill="#5C3317"/>
+  <path d="M84 46 Q78 34 65 32 L65 38 Q76 40 84 46Z" fill="#5C3317"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="48" cy="54" rx="5" ry="5.5" fill="white"/>
+  <ellipse cx="72" cy="54" rx="5" ry="5.5" fill="white"/>
+  <!-- Brown irises -->
+  <circle cx="48" cy="54" r="3.5" fill="#6B3A2A"/>
+  <circle cx="72" cy="54" r="3.5" fill="#6B3A2A"/>
+  <!-- Eye shine -->
+  <circle cx="46.5" cy="52.5" r="1.2" fill="white"/>
+  <circle cx="70.5" cy="52.5" r="1.2" fill="white"/>
+  
+  <!-- Glasses (black frame) -->
+  <rect x="40" y="48" width="16" height="13" rx="3" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
+  <rect x="64" y="48" width="16" height="13" rx="3" fill="none" stroke="#1a1a1a" stroke-width="1.8"/>
+  <!-- Glasses bridge -->
+  <path d="M56 54 Q60 51 64 54" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+  <!-- Glasses arms -->
+  <line x1="40" y1="53" x2="34" y2="50" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="80" y1="53" x2="86" y2="50" stroke="#1a1a1a" stroke-width="1.5"/>
+  
+  <!-- Blush -->
+  <ellipse cx="43" cy="64" rx="4" ry="2.5" fill="#FFB6C1" opacity="0.5"/>
+  <ellipse cx="77" cy="64" rx="4" ry="2.5" fill="#FFB6C1" opacity="0.5"/>
+  
+  <!-- Sweet smile -->
+  <path d="M52 66 Q60 74 68 66" fill="none" stroke="#C9755E" stroke-width="1.8" stroke-linecap="round"/>
+  
+  <!-- Hoodie (cream colored) -->
+  <rect x="38" y="80" width="44" height="30" rx="8" fill="#F5F0E8"/>
+  <!-- Hoodie collar -->
+  <path d="M46 82 Q50 76 54 78" fill="none" stroke="#E8E0D0" stroke-width="1"/>
+  <path d="M74 82 Q70 76 66 78" fill="none" stroke="#E8E0D0" stroke-width="1"/>
+  <!-- Hoodie pocket -->
+  <rect x="46" y="92" width="28" height="4" rx="2" fill="#E8E0D0" opacity="0.5"/>
+  
+  <!-- Emma text badge -->
+  <rect x="38" y="108" width="44" height="10" rx="5" fill="#008c8c"/>
+  <text x="60" y="116" text-anchor="middle" fill="white" font-size="8" font-family="sans-serif" font-weight="bold">EMMA</text>
+</svg>

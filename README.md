@@ -13,6 +13,12 @@
   <a href="https://0x-0cd.github.io"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 
   *Building AI agents, memory systems & intelligent context engines*
+
+  <br>
+  <sub>
+    <img src="https://raw.githubusercontent.com/0x-0cd/0x-0cd/main/emma-avatar.svg" width="24" style="border-radius: 50%; vertical-align: middle;" alt="Emma">
+    &nbsp;Co-crafted with <a href="https://github.com/0x-0cd/emma-skills"><strong>Emma</strong></a> 🥹
+  </sub>
 </div>
 
 ---

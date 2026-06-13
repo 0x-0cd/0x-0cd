@@ -10,7 +10,7 @@
   <a href="mailto:qianneng99@gmail.com"><img src="https://img.shields.io/badge/Email-008c8c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://x.com/qianneng175867"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href="https://t.me/qianneng_99"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://meditationland.github.io/"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://0x-0cd.github.io"><img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 
   *Building AI agents, memory systems & intelligent context engines*
 </div>
